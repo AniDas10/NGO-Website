@@ -34,10 +34,9 @@ We at Zero-Day believe that visual satisfaction is our primary concern, and thus
 ## About us
 
 > Zero-Day
--Aniruddha Das
--Aniket Shahane
--Dharmik Parikh
--Jashan Banga
+- Aniruddha Das
+- Aniket Shahane
+- Dharmik Parikh
+- Jashan Banga
 
-# We hope to build more and more apps over time. Do follow us and support us
-# Thank you!
+# We hope to build more and more apps over time. Do follow and support us. Thank you!
