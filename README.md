@@ -27,6 +27,7 @@ We at Zero-Day believe that visual satisfaction is our primary concern, and thus
 ## Technologies used
 - Django 2.1
 - VanillaJS
+- PostreSQL
 - SASS
 - Materialise CSS
 - Bootstrap 4
